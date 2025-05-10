@@ -1,0 +1,40 @@
+export const usersData = [
+    {
+        id: 1,
+        name: 'Алексей',
+        money: 123.35,
+        tokens: 45,
+        referrals: 8,
+        rank: 1,
+        avatar: '../../public/images/components/leaders/avatar/avatar_1.png'
+    },
+    {
+        id: 2,
+        name: 'Мария',
+        money: 122.08,
+        tokens: 38,
+        referrals: 12,
+        rank: 2,
+        avatar: '/public/images/components/leaders/avatar/avatar_2.png'
+    },
+    {
+        id: 3,
+        name: 'Антон',
+        money: 120.08,
+        tokens: 0.00005,
+        referrals: 10,
+        rank: 3,
+        avatar: '/public/images/components/leaders/avatar/avatar_2.png'
+    },
+    {
+        id: 4,
+        name: 'Ольга',
+        money: 121.35,
+        tokens: 30,
+        referrals: 5,
+        rank: 4,
+        avatar: '/public/images/components/leaders/avatar/avatar_3.png'
+    },
+
+
+];
